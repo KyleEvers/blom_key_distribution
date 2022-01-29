@@ -37,6 +37,7 @@ TODO:
     Be able to print out the matrix and polynomials to stdout
     Be able to print session keys out to file
     Fix docopt to throw error if an invalid combination of arguements is passed in
+    Fix the formatting of this Markdown file
  
 
 Design:
